@@ -1,10 +1,8 @@
 # CAMERA Computer Vision Tutorial 2023
 
-Tutorial for LBNL WDE Internship Program 2023
-- Slides: https://docs.google.com/presentation/d/1dP4LKxXJEqRjHSPzQyw53Dt5rSOHMtr3rGaYTXCSiiA/edit?usp=sharing
-- Google Colab: https://colab.research.google.com/drive/1DjAdAzcoqrd1lr17oIvJeLGnvvANiLRH?usp=sharing
+## Tutorial for LBNL WDE Internship Program 2023
 
-This is a short introduction to Computer Vision, explaining how to handle 2D and 3D image representations using numpy, how to perform key image transformations with scipy and skimage, as well as visualization schemes using matplotlib, plotly, itkwidgets and other python libraries used into the construction of scientific pipelines and workflows.
+This is a short introduction to Data Science, exercising image representation using numpy, performing key image transformations with scipy and skimage, as well as visualization schemes using matplotlib, and plotly. The tutorial also includes spreadsheet manipulation using pandas and the use of other python libraries for the construction of scientific pipelines and workflows. *Requirement: Google Drive and Colab*.
 
 <table border="0">
  <tr>
@@ -15,7 +13,7 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
       Title: Beyond what the eye can see  <a href='https://docs.google.com/presentation/d/1dP4LKxXJEqRjHSPzQyw53Dt5rSOHMtr3rGaYTXCSiiA/edit?usp=sharing'>[slides]</a>
       <li> Presenter: <a href='http://bit.ly/idealdatascience'>Daniela Ushizima </a>
       <li> Date: Jan 31st 2023
-      <li> Time: 10sm PT
+      <li> Time: 10am PT
       <li> Google Colaboratory: <a href='https://colab.research.google.com/drive/1DjAdAzcoqrd1lr17oIvJeLGnvvANiLRH?usp=sharing'>[Colab]</a> <a href='https://www.dropbox.com/s/aj6xw38szg1jdlv/WDEpythonML.pdf?dl=0'>[PDF]</a>
       </td>
  </tr>
