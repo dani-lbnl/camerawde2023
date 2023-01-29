@@ -2,7 +2,7 @@
 
 ## Tutorial for LBNL WDE Internship Program 2023
 
-This is a short introduction to Data Science, exercising image representation using numpy, performing key image transformations with scipy and skimage, as well as visualization schemes using matplotlib, and plotly. The tutorial also includes spreadsheet manipulation using pandas and the use of other python libraries for the construction of scientific pipelines and workflows. *Requirement: Google Drive and Colab*.
+This is a short introduction to image representation using numpy, image transformations with scipy and skimage, clustering with sklearn as well as visualization schemes using matplotlib, and plotly. The tutorial also includes spreadsheet manipulation using pandas and might include use of other python libraries for the construction of scientific pipelines and workflows. *Requirement: Google Drive and Colab*.
 
 <table border="0">
  <tr>
