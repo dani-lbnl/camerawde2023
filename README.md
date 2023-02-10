@@ -20,7 +20,7 @@ This is a short introduction to image representation using numpy, image transfor
 </table>
 
 
-## Enjoyed it? Give us a :star: and please share it!
+## Enjoyed it? Be a star and give us a :star: (top-right corner)!
 [![Twitter](https://img.shields.io/badge/-Dani%20Vision-00aa00?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dani_lbnl)](https://twitter.com/dani_lbnl)
 [![Linkedin](https://img.shields.io/badge/-Dani%20Vision-174b97?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/danivision)](https://www.linkedin.com/in/daniela-ushizima-vision)
 [![YouTube](https://img.shields.io/badge/-Dani%20Vision-8a28e2?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/c/DaniUshizimaVision)](https://www.youtube.com/c/DaniUshizimaVision)
